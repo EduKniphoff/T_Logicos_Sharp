@@ -1,0 +1,14 @@
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.AssemblyInfo.cs
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\bin\Debug\net6.0\ex003.exe
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\bin\Debug\net6.0\ex003.deps.json
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\bin\Debug\net6.0\ex003.runtimeconfig.json
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\bin\Debug\net6.0\ex003.dll
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\bin\Debug\net6.0\ex003.pdb
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.dll
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\refint\ex003.dll
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.pdb
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ex003.genruntimeconfig.cache
+C:\Users\User\Documents\VS\Trabalho_Pratico01\ex003\ex003\obj\Debug\net6.0\ref\ex003.dll
